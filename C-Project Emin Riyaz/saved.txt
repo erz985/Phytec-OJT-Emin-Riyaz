@@ -1,0 +1,28 @@
+Patient Number: 0
+Patient Name: Emin
+Disease: Fever
+Room No.: 103
+Phone No.: 986585
+Age: 23
+
+Patient Number: 1
+Patient Name: vagesh
+Disease: diarrhea
+Room No.: 105
+Phone No.: 6868256
+Age: 20
+
+Patient Number: 2
+Patient Name: Mainak
+Disease: AIDS
+Room No.: 201
+Phone No.: 353215
+Age: 22
+
+Patient Number: 3
+Patient Name: Rajesh
+Disease: Headache
+Room No.: 204
+Phone No.: 45454
+Age: 22
+
